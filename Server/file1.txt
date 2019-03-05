@@ -1,0 +1,6 @@
+bin
+boot
+cdrom
+dev
+etc
+
